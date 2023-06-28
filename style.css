@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&family=Ysabeau+SC:wght@700&display=swap');
+body {
+  background-color: #A5A5A5;
+},
+
+h1 {
+  font-family: 'Ysabeau SC', sans-serif;
+  font-color: #000000;
+  font-size: 48px;
+  text-align: centre;
+},
+
+p {
+  font-family: 'Roboto Mono', monospace;
+  font-color: black;
+  font-size: 16px;
+  text-align: centre;
+},
+
+h2 (
+
+  
