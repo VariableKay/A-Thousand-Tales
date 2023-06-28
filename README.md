@@ -1,3 +1,3 @@
 # A Thousand Tales
 
-[Placeholder Website]
+Placeholder Website
